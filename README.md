@@ -1,7 +1,7 @@
 # Basic_Banking_System
-<b><h3><ul>The Sparks Foundation Internship Project:- "The Royal Bank"</ul></h3> </b> </br>
-A Dynamic Website is used to transfer money between users.</br>
-<h4><b>Technologies Used:</b></h4><br>
+<b><h3>The Sparks Foundation Internship Project:- "The Royal Bank"</h3> </b> </br>
+A Dynamic Website is used to transfer money between users.
+<h4><b>Technologies Used:</b></h4>
 <h4>Front-End:</h4>
 <ul>
   <li>HTML</li>
