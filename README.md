@@ -21,8 +21,8 @@ A Dynamic Website is used to transfer money between users.
   <li>Transfer table/ Transfer History which records all the transactions</li>
  </ol>
   <b>Flow of the Project:</b><br>
-  Home Page > Money Transfer > Select and view one User > Transfer Amount > Transaction History > Contact Us<br>
- screenshots of the website<br>
+  Home Page > Money Transfer > Select and view one User > Transfer Amount > Transaction History > Contact Us</br>
+ screenshots of the website:<br>
   
   
  
