@@ -5,8 +5,8 @@ A Dynamic Website is used to transfer money between users.
 <h4>Front-End:</h4>
 <ul>
   <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
  </ul>
  <h4>Back-End:</h4>
  <ul>
